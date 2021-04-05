@@ -1,0 +1,513 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Results /> should render with initial state from Redux store 1`] = `
+<div>
+  <hr />
+  <label
+    className="form-label"
+    style={
+      Object {
+        "fontWeight": "bold",
+      }
+    }
+  >
+    Results
+  </label>
+  <br />
+  Showing 
+  0
+   results
+  <div
+    className="card-columns"
+    style={
+      Object {
+        "margin": "15px",
+      }
+    }
+  />
+</div>
+`;
+
+exports[`<Results /> should render with results 1`] = `
+<div>
+  <hr />
+  <label
+    className="form-label"
+    style={
+      Object {
+        "fontWeight": "bold",
+      }
+    }
+  >
+    Results
+  </label>
+  <br />
+  Showing 
+  13
+   results
+  <div
+    className="card-columns"
+    style={
+      Object {
+        "margin": "15px",
+      }
+    }
+  >
+    <div
+      className="card"
+    >
+      <img
+        alt="Image DAS NA DAS - JAYESH GANDHI"
+        className="card-img-top"
+        src="https://i.ytimg.com/vi/LczA7wqUQDE/hqdefault.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          DAS NA DAS - JAYESH GANDHI
+        </div>
+        <p
+          className="card-text"
+        >
+          <small
+            className="text-muted"
+          >
+            Published at: 
+            Jan 01, 2019
+          </small>
+        </p>
+        <p
+          className="card-text"
+        >
+          <small>
+            HD
+          </small>
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        alt="Image Das passiert, wenn du Kokain nimmst!"
+        className="card-img-top"
+        src="https://i.ytimg.com/vi/EJZNky4hWwY/hqdefault.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Das passiert, wenn du Kokain nimmst!
+        </div>
+        <p
+          className="card-text"
+        >
+          <small
+            className="text-muted"
+          >
+            Published at: 
+            Mar 28, 2021
+          </small>
+        </p>
+        <p
+          className="card-text"
+        >
+          <small>
+            HD
+          </small>
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        alt="Image Danger Dan - Das ist alles von der Kunstfreiheit gedeckt (Antilopen Gang)"
+        className="card-img-top"
+        src="https://i.ytimg.com/vi/Y-B0lXnierw/hqdefault.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Danger Dan - Das ist alles von der Kunstfreiheit gedeckt (Antilopen Gang)
+        </div>
+        <p
+          className="card-text"
+        >
+          <small
+            className="text-muted"
+          >
+            Published at: 
+            Mar 25, 2021
+          </small>
+        </p>
+        <p
+          className="card-text"
+        >
+          <small>
+            HD
+          </small>
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        alt="Image 24h auf der Rolltreppe || Challenge || Das schaffst du nie"
+        className="card-img-top"
+        src="https://i.ytimg.com/vi/eq6sdqgCbkw/hqdefault.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          24h auf der Rolltreppe || Challenge || Das schaffst du nie
+        </div>
+        <p
+          className="card-text"
+        >
+          <small
+            className="text-muted"
+          >
+            Published at: 
+            Apr 01, 2021
+          </small>
+        </p>
+        <p
+          className="card-text"
+        >
+          <small>
+            HD
+          </small>
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        alt="Image Falaknuma Das - Arerey Manasa Lyric (Telugu) | Vishwak Sen, Sid Sriram Vivek Sagar | Tharun Bhascker"
+        className="card-img-top"
+        src="https://i.ytimg.com/vi/Xc4veW5wF48/hqdefault.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Falaknuma Das - Arerey Manasa Lyric (Telugu) | Vishwak Sen, Sid Sriram Vivek Sagar | Tharun Bhascker
+        </div>
+        <p
+          className="card-text"
+        >
+          <small
+            className="text-muted"
+          >
+            Published at: 
+            May 01, 2019
+          </small>
+        </p>
+        <p
+          className="card-text"
+        >
+          <small>
+            HD
+          </small>
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        alt="Image Das Na Das status"
+        className="card-img-top"
+        src="https://i.ytimg.com/vi/PUQqSuvBoLo/hqdefault.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Das Na Das status
+        </div>
+        <p
+          className="card-text"
+        >
+          <small
+            className="text-muted"
+          >
+            Published at: 
+            Jul 13, 2019
+          </small>
+        </p>
+        <p
+          className="card-text"
+        >
+          <small>
+            
+          </small>
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        alt="Image Der BESTE Osterhase von ALLEN (REVIEW)"
+        className="card-img-top"
+        src="https://i.ytimg.com/vi/4ErvihWA-A8/hqdefault.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Der BESTE Osterhase von ALLEN (REVIEW)
+        </div>
+        <p
+          className="card-text"
+        >
+          <small
+            className="text-muted"
+          >
+            Published at: 
+            Apr 02, 2021
+          </small>
+        </p>
+        <p
+          className="card-text"
+        >
+          <small>
+            HD
+          </small>
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        alt="Image home :) cover by paravi das"
+        className="card-img-top"
+        src="https://i.ytimg.com/vi/8kcG7Whh8Yo/hqdefault.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          home :) cover by paravi das
+        </div>
+        <p
+          className="card-text"
+        >
+          <small
+            className="text-muted"
+          >
+            Published at: 
+            Mar 30, 2021
+          </small>
+        </p>
+        <p
+          className="card-text"
+        >
+          <small>
+            HD
+          </small>
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        alt="Image Ultra Deep Bass Test !!"
+        className="card-img-top"
+        src="https://i.ytimg.com/vi/4vUtXdXmnRE/hqdefault.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Ultra Deep Bass Test !!
+        </div>
+        <p
+          className="card-text"
+        >
+          <small
+            className="text-muted"
+          >
+            Published at: 
+            Nov 15, 2018
+          </small>
+        </p>
+        <p
+          className="card-text"
+        >
+          <small>
+            HD
+          </small>
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        alt="Image Xavier Naidoo - Ich kenne nichts (Das so schön ist wie du) [Official Video]"
+        className="card-img-top"
+        src="https://i.ytimg.com/vi/RPN88D_HjMU/hqdefault.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Xavier Naidoo - Ich kenne nichts (Das so schön ist wie du) [Official Video]
+        </div>
+        <p
+          className="card-text"
+        >
+          <small
+            className="text-muted"
+          >
+            Published at: 
+            Dec 05, 2008
+          </small>
+        </p>
+        <p
+          className="card-text"
+        >
+          <small>
+            
+          </small>
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        alt="Image Ben Zucker - Wer sagt das?! (Offizielles Musikvideo)"
+        className="card-img-top"
+        src="https://i.ytimg.com/vi/lc4oUzjtj7I/hqdefault.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Ben Zucker - Wer sagt das?! (Offizielles Musikvideo)
+        </div>
+        <p
+          className="card-text"
+        >
+          <small
+            className="text-muted"
+          >
+            Published at: 
+            Mar 15, 2019
+          </small>
+        </p>
+        <p
+          className="card-text"
+        >
+          <small>
+            HD
+          </small>
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        alt="Image Das na das status"
+        className="card-img-top"
+        src="https://i.ytimg.com/vi/Ie6OFn5Il1Q/hqdefault.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Das na das status
+        </div>
+        <p
+          className="card-text"
+        >
+          <small
+            className="text-muted"
+          >
+            Published at: 
+            Feb 04, 2020
+          </small>
+        </p>
+        <p
+          className="card-text"
+        >
+          <small>
+            
+          </small>
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <img
+        alt="Image Tu chale mari saath"
+        className="card-img-top"
+        src="https://i.ytimg.com/vi/u96zb1ivc24/hqdefault.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Tu chale mari saath
+        </div>
+        <p
+          className="card-text"
+        >
+          <small
+            className="text-muted"
+          >
+            Published at: 
+            Sep 23, 2014
+          </small>
+        </p>
+        <p
+          className="card-text"
+        >
+          <small>
+            HD
+          </small>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

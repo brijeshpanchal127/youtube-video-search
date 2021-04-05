@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Refine /> should render with initial state from Redux store 1`] = `
+<form
+  className=""
+  style={
+    Object {
+      "marginTop": "15px",
+    }
+  }
+>
+  <div
+    className="form-group"
+  >
+    <label
+      className="form-label"
+      htmlFor="formBasicEmail"
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Refine By Date: (Ex. Jan 01, 2019)
+    </label>
+    <input
+      className="form-control"
+      id="formBasicEmail"
+      onChange={[Function]}
+      placeholder="Enter date"
+      type="text"
+      value=""
+    />
+  </div>
+  <div
+    className="form-group"
+  >
+    <div
+      className="form-check"
+    >
+      <input
+        className="form-check-input"
+        disabled={false}
+        id="formBasicCheckbox"
+        onChange={[Function]}
+        type="checkbox"
+        value={false}
+      />
+      <label
+        className="form-check-label"
+        htmlFor="formBasicCheckbox"
+        title=""
+      >
+        Show only HD videos
+      </label>
+    </div>
+  </div>
+</form>
+`;

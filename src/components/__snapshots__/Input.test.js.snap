@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Input /> should render with initial state from Redux store 1`] = `
+<div>
+  <div
+    className="form-group"
+  >
+    <label
+      className="form-label"
+      htmlFor="formBasicEmail"
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Search Video
+    </label>
+    <input
+      className="form-control"
+      id="formBasicEmail"
+      onChange={[Function]}
+      placeholder="Enter video name"
+      type="video"
+      value=""
+    />
+  </div>
+  <button
+    className="btn btn-primary"
+    disabled={false}
+    onClick={[Function]}
+    type="button"
+  >
+    Search
+  </button>
+</div>
+`;

@@ -2,11 +2,11 @@ import React from 'react';
 import { Provider } from 'react-redux';
 import renderer from 'react-test-renderer';
 import configureStore from 'redux-mock-store';
-import App from './App';
+import Refine from './Refine';
 
 const mockStore = configureStore([]);
 
-describe('<App />', () => {
+describe('<Refine />', () => {
 
     let store;
     let component;
@@ -20,7 +20,7 @@ describe('<App />', () => {
         });
         component = renderer.create(
             <Provider store={store}>
-                <App />
+                <Refine />
             </Provider>
         );
 

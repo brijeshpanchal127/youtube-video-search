@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should render with initial state from Redux store 1`] = `
+<div
+  className="App"
+>
+  <h1
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    Youtube Video Search
+  </h1>
+  <div>
+    <div
+      className="form-group"
+    >
+      <label
+        className="form-label"
+        htmlFor="formBasicEmail"
+        style={
+          Object {
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Search Video
+      </label>
+      <input
+        className="form-control"
+        id="formBasicEmail"
+        onChange={[Function]}
+        placeholder="Enter video name"
+        type="video"
+        value=""
+      />
+    </div>
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      onClick={[Function]}
+      type="button"
+    >
+      Search
+    </button>
+  </div>
+  <form
+    className=""
+    style={
+      Object {
+        "marginTop": "15px",
+      }
+    }
+  >
+    <div
+      className="form-group"
+    >
+      <label
+        className="form-label"
+        htmlFor="formBasicEmail"
+        style={
+          Object {
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Refine By Date: (Ex. Jan 01, 2019)
+      </label>
+      <input
+        className="form-control"
+        id="formBasicEmail"
+        onChange={[Function]}
+        placeholder="Enter date"
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      className="form-group"
+    >
+      <div
+        className="form-check"
+      >
+        <input
+          className="form-check-input"
+          disabled={false}
+          id="formBasicCheckbox"
+          onChange={[Function]}
+          type="checkbox"
+          value={false}
+        />
+        <label
+          className="form-check-label"
+          htmlFor="formBasicCheckbox"
+          title=""
+        >
+          Show only HD videos
+        </label>
+      </div>
+    </div>
+  </form>
+  <div>
+    <hr />
+    <label
+      className="form-label"
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Results
+    </label>
+    <br />
+    Showing 
+    0
+     results
+    <div
+      className="card-columns"
+      style={
+        Object {
+          "margin": "15px",
+        }
+      }
+    />
+  </div>
+</div>
+`;
